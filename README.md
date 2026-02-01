@@ -24,4 +24,4 @@ We use your data strictly for the following:
 **Auth Guard** does not sell, trade, or share your data. We do not use your data for marketing or tracking outside the scope of server security.
 
 ### 5. Contact
-For data deletion requests, please contact the Server Administrator where Auth Guard is active.
+For data deletion requests, please contact the Server Administrator by using `.contact`.
